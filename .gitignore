@@ -22,3 +22,8 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+/database/*.sqlite
+/bootstrap/cache/*
+!bootstrap/cache/.gitignore
+/.pest-cache
+
